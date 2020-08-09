@@ -1,0 +1,18 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+}
+h2{
+    margin: auto;
+    font-size: 25px;
+    color: yellow;
+}
+img{
+    border-radius: 150px;
+}
